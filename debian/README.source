@@ -1,0 +1,15 @@
+ARM SoC driver has kind of complicated history.
+
+It was forked from xf86-video-omap and stored on Linaro git server:
+
+http://git.linaro.org/gitweb?p=arm/xorg/driver/xf86-video-armsoc.git;a=summary
+
+This version has Mali 400 support and is at 0.5.1 version.
+
+But this driver is fetched from Chromium OS repository:
+
+http://git.chromium.org/gitweb/?p=chromiumos/third_party/xf86-video-armsoc.git;a=summary
+
+Where it has 0.0.1 version still but has support for Mali T604 chipset.
+
+Older copy of Chromium repo is also present in Linaro one as "exynos" branch.

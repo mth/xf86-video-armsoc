@@ -1,0 +1,17 @@
+xf86-video-armsoc (1.4.1+rockchip20150528-mth) stretch; urgency=medium
+
+  * Merged Ubuntu Artful package source with the Ayufan Rockchip package
+
+ -- Madis Janson <madis@cyber.ee>  Tue, 03 Oct 2017 00:00:00 +0300
+
+xf86-video-armsoc (1.3.0+rockchip20150528-1ayufan1) xenial; urgency=medium
+
+  * Automated release
+
+ -- Heiko Stuebner <mmind@debian.org>  Sun, 09 Jul 2017 01:19:44 +0200
+
+xf86-video-armsoc (1.3.0+rockchip20150528-1) UNRELEASED; urgency=low
+
+  * New X DDX for ARM/mali including support for Rockchip RK3288 SoCs.
+
+ -- Heiko Stuebner <mmind@debian.org>  Thu, 28 May 2015 14:50:18 +0200
